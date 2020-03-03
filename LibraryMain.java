@@ -5,7 +5,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 interface YesLim {
-    int limitPass = 3;
+    int limitPass = 3;;
 }
 
 public class LibraryMain implements YesLim {
